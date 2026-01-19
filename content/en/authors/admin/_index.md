@@ -36,4 +36,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-This is my old website, visit my new site: https://luiscanoi.github.io/
+This is my old website! Visit the new site: https://luiscanoi.github.io/
